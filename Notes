@@ -1,0 +1,3 @@
+venv\Scripts\activate : venv 
+
+function, async(used for tasks that take time, api calls, database)
