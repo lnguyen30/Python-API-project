@@ -1,3 +1,6 @@
 venv\Scripts\activate : venv 
 
+uvicorn main:app --reload to start server
 function, async(used for tasks that take time, api calls, database)
+
+@app.get(some symbol for url or path) clarify that the function is a http call, app is the fast api instance
